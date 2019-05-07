@@ -29,3 +29,6 @@ Consisted with tree parts:
 * Action: What the agent can do
 
 The object is for the agent to choose actions that maximize the expected reward over a given amount of time.
+
+## Linear Regression
+
