@@ -85,4 +85,16 @@ When we only care about the accuracy, we may want to choose more flexible method
 
 Note more flexible methods do not **always** have better accuracy than less flexible method
 
- 
+
+
+## K Nearest Neighbours
+
+### KNN Thoery
+
+*  User for classifications problem
+
+##### Training Algorithm
+
+1. Store all data
+
+##### Prediction Algorithm
