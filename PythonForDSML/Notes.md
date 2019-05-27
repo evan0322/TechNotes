@@ -98,3 +98,13 @@ Note more flexible methods do not **always** have better accuracy than less flex
 1. Store all data
 
 ##### Prediction Algorithm
+
+
+
+## Random Forest
+
+Random forest builds multiple decision trees and merges them together to get a more accurate and stable prediction.
+
+**Advantage**
+
+It can be used for both classification and regression problems, which form the majority of current machine learning systems
